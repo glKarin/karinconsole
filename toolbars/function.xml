@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE MEEGO_INPUT_METHOD SYSTEM 'VirtualKeyboardToolbarDTD.dtd'>
+<input-method version="1">
+    <toolbar>
+        <items>
+            <button name="F1" group="F1" showon="always" text="F1" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F1"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F2" group="F2" showon="always" text="F2" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F2"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F3" group="F3" showon="always" text="F3" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F3"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F4" group="F4" showon="always" text="F4" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F4"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F5" group="F5" showon="always" text="F5" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F5"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F6" group="F6" showon="always" text="F6" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F6"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F7" group="F7" showon="always" text="F7" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F7"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F8" group="F8" showon="always" text="F8" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F8"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F9" group="F9" showon="always" text="F9" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F9"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F10" group="F10" showon="always" text="F10" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F10"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F11" group="F11" showon="always" text="F11" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F11"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F12" group="F12" showon="always" text="F12" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="F12"> </sendkeysequence>
+                </actions>
+            </button>
+        </items>
+        <layout>
+            <item name="F1" />
+            <item name="F2" />
+            <item name="F3" />
+            <item name="F4" />
+            <item name="F5" />
+            <item name="F6" />
+            <item name="F7" />
+            <item name="F8" />
+            <item name="F9" />
+            <item name="F10" />
+            <item name="F11" />
+            <item name="F12" />
+        </layout>
+    </toolbar>
+</input-method>

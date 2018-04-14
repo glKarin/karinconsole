@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE MEEGO_INPUT_METHOD SYSTEM 'VirtualKeyboardToolbarDTD.dtd'>
+<input-method version="1">
+    <toolbar>
+        <items>
+            <button name="Ctrl" group="Ctrl" showon="always" text="Ctrl" toggle="true" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="Ctrl+Shift+Alt+C"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="Tab" group="Tab" showon="always" text="t" toggle="false" pressed="false">
+                <actions>
+		  <sendkeysequence keysequence="Tab"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="Esc" group="Esc" showon="always" text="e" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="Esc"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="PgUp" group="PgUp" showon="always" text="u" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="PgUp"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="PgDn" group="PgDn" showon="always" text="d" toggle="false" pressed="false">
+                <actions>
+                    <sendkeysequence keysequence="PgDown"> </sendkeysequence>
+                </actions>
+            </button>
+
+            <button name="Home" group="Home" showon="always" text="h" toggle="false" pressed="false">
+                <actions>
+		  <sendkeysequence keysequence="Home"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="End" group="End" showon="always" text="e" toggle="false" pressed="false">
+                <actions>
+		  <sendkeysequence keysequence="End"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F5" group="F5" showon="always" text="5" toggle="false" pressed="false">
+                <actions>
+		  <sendkeysequence keysequence="F5"> </sendkeysequence>
+                </actions>
+            </button>
+            <button name="F6" group="F6" showon="always" text="6" toggle="false" pressed="false">
+                <actions>
+		  <sendkeysequence keysequence="F6"> </sendkeysequence>
+                </actions>
+            </button>
+
+        </items>
+        <layout>
+            <item name="Tab" />
+            <item name="Ctrl" />
+            <item name="Esc" />
+            <item name="Home" />
+            <item name="PgDn" />
+            <item name="PgUp" />
+            <item name="End" />
+            <item name="F5" />
+            <item name="F6" />
+        </layout>
+    </toolbar>
+</input-method>

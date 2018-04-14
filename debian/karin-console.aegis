@@ -1,0 +1,11 @@
+<aegis>
+   <request>
+      <credential match="*" />
+    <deny>
+              <credential match="UID::*" />
+              <credential match="GID::*" />
+    </deny>
+      <for path="/usr/bin/karin-console" />
+      <for path="/usr/bin/konsole-graphicsview" />
+   </request>
+</aegis>

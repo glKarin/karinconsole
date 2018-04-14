@@ -1,0 +1,6 @@
+@import "../../themes/base/meegotouch/libmeegotouchviews/style/mlabelstyle.css";
+
+MLabelStyle {
+    highlight-color: #9E1B29;
+    active-highlight-color: #9E1B29; 
+}

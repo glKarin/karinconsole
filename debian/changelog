@@ -1,0 +1,55 @@
+karin-console (0.2.5harmattan3) unstable; urgency=low
+
+  * Fixed Auto Enable/Disable Selection Mode in multi tabs.
+  * Fixed Edit ToolBar position when input method is translucent.
+  * Fixed update view port in multi tabs.
+  * Switch Button support to swipe for changing some settings.
+  * Make Tool Buttons opacity to 0.5 in tradition mode.
+  * Other fixed.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  The, 14 Jul 2015 18:15:18 +0800
+
+karin-console (0.2.5harmattan1) unstable; urgency=low
+
+  * Support set view type of terminal, includes tab mode and traditional mode.
+  * Support set terminal cursor shape type.
+  * Support set blinking terminal cursor.
+  * Add clear screen and reset terminal.
+  * Change a new internal toolbar named "karin", and remove two "karin_*" toolbars.
+  * Fixed a bug of color scheme index.
+  * Change a new icon with bg color = "#9E1B29" and fg color = "#87CEFA". By daols - DOSPY.
+  * Fixed editor toolbar position when input method is translucent.
+  * Add Chinese translation.
+  * Optmized focus.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Wed, 08 Jul 2015 14:04:18 +0800
+
+karin-console (0.2.3harmattan5) unstable; urgency=low
+
+  * Support update toolbar list in runtime.
+  * Support show/hide virtual keyboard.
+  * Support make virtual keyboard translucent.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Sat, 04 Jul 2015 17:59:18 +0800
+
+karin-console (0.2.3harmattan3) unstable; urgency=low
+
+  * Optmized focus.
+  * Sync selection mode in tab label and tab widget.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Fri, 03 Jul 2015 19:53:18 +0800
+
+karin-console (0.2.3harmattan2) unstable; urgency=low
+
+  * Fixed copy strings that include wide charactors, like Chinese.
+  * Add functional toolbar and two my own toolbars.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Wed, 02 Jul 2015 21:00:18 +0800
+
+karin-console (0.2.3harmattan1) unstable; urgency=low
+
+  * Support multi-tab.
+  * Add show normal/fullscreen.
+  * Add show/hide info banner.
+
+ -- Karin Zhao <beyondk2000@gmail.com>  Wed, 24 Jun 2015 10:31:18 +0800
